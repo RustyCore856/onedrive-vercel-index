@@ -14,7 +14,7 @@ module.exports = {
   icon: '/icons/512.png',
 
   // The name of your website. Present alongside your icon.
-  title: "Rusty_Core's OneDrive",
+  title: "Rusty Drive",
 
   // The folder that you are to share publicly with onedrive-vercel-index. Use '/' if you want to share your root folder.
   baseDirectory: '/public',
